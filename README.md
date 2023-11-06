@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Infraction7
-- 🥶 I’m a hacker-_-
-- 🔨 I'm from China-_-
-- ♻️ 請不要污染我們的星球！
+# Nothing to see here yet!
